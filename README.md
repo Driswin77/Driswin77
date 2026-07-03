@@ -25,7 +25,7 @@
 
 ##  About Me
 
--  **Education:** 3rd-Year B.Tech Computer Science Engineering Student (Edappal, Kerala).
+-  **Education:** 4th-Year B.Tech Computer Science Engineering Student (Edappal, Kerala).
 -  **Focus Areas:** Full Stack Development (MERN) and Artificial Intelligence.
 -  **Currently Exploring:** Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 -  **Looking to Collaborate on:** Open-source AI projects and innovative full-stack web applications.
