@@ -47,10 +47,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[EcoLens](#)** | AI-powered traffic and environmental violation detection and reporting system. | Python, Machine Learning, React |
-| **[ShopSync](#)** | Comprehensive full-stack e-commerce platform with a scalable backend. | MongoDB, Express, React, Node.js |
-| **[DocMind](#)** | Local AI RAG system for intelligent document question answering. | Python, LLMs, RAG |
-| **[TraffIQ](#)** | Smart platform for traffic analysis and optimized navigation. | JavaScript, React, Node.js |
+| **[EcoLens](https://github.com/Driswin77/EcoLens)** | AI-powered traffic and environmental violation detection and reporting system. | Python, Machine Learning, React |
+| **[ShopSync]([#](https://github.com/Driswin77/ShopSync-MERN))** | Comprehensive full-stack e-commerce platform with a scalable backend. | MongoDB, Express, React, Node.js |
+| **[DocMind]([#](https://github.com/Driswin77/Docmind))** | Local AI RAG system for intelligent document question answering. | Python, LLMs, RAG |
+| **[TraffIQ]([#](https://github.com/Driswin77/TraffIQ))** | Smart platform for traffic analysis and optimized navigation. | JavaScript, React, Node.js |
 | **[Disease Predictor](#)** | Machine learning application for early disease prediction. | Python, Scikit-Learn |
 
 > *Note: Replace the `#` in the project names with the actual repository links.*
