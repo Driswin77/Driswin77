@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=Driswin%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20MERN%20Developer&descAlignY=60&descSize=17" width="100%" />
@@ -10,6 +9,7 @@
 <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7C3AED?style=flat-square&logo=artificial-intelligence&logoColor=white" />
 <img src="https://img.shields.io/badge/Stack-MERN-8B5CF6?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full%20Time-16A34A?style=flat-square&logo=briefcase&logoColor=white" />
 
 <br><br>
 
@@ -35,123 +35,92 @@
 
 ## 👨‍💻 About Me
 
+I'm a **Computer Science Engineering (B.Tech) student** who builds full-stack products and increasingly bakes AI directly into them — not as a bolt-on feature, but as the core of what makes the product useful. I work end-to-end: interfaces, APIs, databases, and the AI pipelines that sit behind them.
+
 ```javascript
 const driswin = {
-    name: "Driswin Kumar",
-    role: "Full Stack Developer · AI Enthusiast",
-    education: "B.Tech Computer Science Engineering",
-    location: "Kerala, India",
+  role: "Full Stack Developer · AI Enthusiast",
+  education: "B.Tech, Computer Science Engineering",
+  location: "Kerala, India",
 
-    focus: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "MERN Stack",
-        "RAG & LLM Applications"
-    ],
+  focusAreas: ["Full Stack Development", "MERN Stack", "AI/ML Integration", "RAG & LLM Applications"],
+  currentlyLearning: ["Retrieval-Augmented Generation", "AI Agents", "Computer Vision"],
 
-    currentlyLearning: [
-        "Retrieval-Augmented Generation",
-        "Large Language Models",
-        "AI-powered Web Applications"
-    ],
-
-    mindset: "Build useful things. Keep learning. Keep improving."
+  lookingFor: ["Internships", "Full Stack roles", "AI/ML Application roles"],
+  mindset: "Build useful things. Keep learning. Keep shipping."
 };
-````
-
-I'm a **Computer Science Engineering student** passionate about building modern web applications and integrating AI into real-world solutions.
-
-I enjoy working across the stack — from designing responsive interfaces to building APIs, databases, AI pipelines, and intelligent features.
-
-🎯 **Currently looking for:** Internships · Full Stack Development · AI/ML Application Development
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
+
+<p><img src="https://skillicons.dev/icons?i=javascript,python,java,html,css" /></p>
+
+**Frontend**
+
+<p><img src="https://skillicons.dev/icons?i=react,vite,materialui,html,css,js" /></p>
+
+**Backend & Database**
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></p>
+
+**Tools & Platforms**
+
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab" /></p>
+
+**AI / ML**
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,python,java,html,css" />
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-### ⚛️ Frontend
+**APIs & Geospatial**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,materialui" />
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" />
+<img src="https://img.shields.io/badge/TomTom%20API-DF1B12?style=flat-square" />
+<img src="https://img.shields.io/badge/Open--Meteo-1E88E5?style=flat-square" />
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-### 🖥️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`YOLOv8` · `Google Gemini` · `RAG` · `LLMs` · `scikit-learn` · `OpenCV`
-
-### 🔧 Tools & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab" />
-</p>
-
-`Leaflet.js` · `OpenStreetMap` · `TomTom API` · `Open-Meteo` · `MongoDB Atlas`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 EcoLens — AI-Powered Environmental & Traffic Intelligence
+### 🌱 [EcoLens](https://github.com/Driswin77/EcoLens) — AI-Powered Environmental & Traffic Intelligence
+Detects traffic and environmental violations from image input, auto-generates evidence-based reports, and routes incidents to the relevant authority — combining computer vision with a real civic-reporting workflow.
 
-An AI-powered platform for detecting traffic and environmental violations, generating evidence-based reports, and routing incidents to the appropriate authority.
-
-**Tech:** React · Node.js · Express · MongoDB · YOLOv8 · Gemini · Leaflet · OpenStreetMap
-
-<a href="https://github.com/Driswin77/EcoLens">
-<img src="https://img.shields.io/badge/View%20Project-EcoLens-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`React` · `Node.js` · `Express` · `MongoDB` · `YOLOv8` · `Gemini` · `Leaflet` · `OpenStreetMap`
 
 ---
 
-### 🛒 ShopSync — MERN E-Commerce Platform
+### 📄 [DocMind](https://github.com/Driswin77/Docmind) — Local RAG Document Assistant
+A fully local Retrieval-Augmented Generation system for question-answering over uploaded documents — no data leaves the machine, built around vector search and LLM-based retrieval.
 
-A full-stack e-commerce platform featuring authentication, product management, shopping workflows, and real-time functionality.
-
-**Tech:** MongoDB · Express · React · Node.js · JWT · Socket.io
-
-<a href="https://github.com/Driswin77/ShopSync-MERN">
-<img src="https://img.shields.io/badge/View%20Project-ShopSync-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`Python` · `RAG` · `LLMs` · `Vector Search`
 
 ---
 
-### 📄 DocMind — Local RAG Document Assistant
+### 🚦 [TraffIQ](https://github.com/Driswin77/TraffIQ) — Smart Traffic & Navigation
+An interactive traffic analysis and navigation platform combining real-time mapping, routing, and location-based intelligence.
 
-A local AI-powered document question-answering system using Retrieval-Augmented Generation to interact intelligently with uploaded documents.
-
-**Tech:** Python · RAG · LLMs · Vector Search
-
-<a href="https://github.com/Driswin77/Docmind">
-<img src="https://img.shields.io/badge/View%20Project-DocMind-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`React` · `JavaScript` · `Node.js` · `Leaflet` · `OpenStreetMap`
 
 ---
 
-### 🚦 TraffIQ — Smart Traffic & Navigation
+### 🛒 [ShopSync](https://github.com/Driswin77/ShopSync-MERN) — MERN E-Commerce Platform
+A full-stack e-commerce platform with authentication, product management, cart/checkout flows, and real-time order updates.
 
-A smart traffic analysis and navigation platform using interactive maps, routing, traffic information, and location-based intelligence.
-
-**Tech:** React · JavaScript · Node.js · Leaflet · OpenStreetMap
-
-<a href="https://github.com/Driswin77/TraffIQ">
-<img src="https://img.shields.io/badge/View%20Project-TraffIQ-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+`MongoDB` · `Express` · `React` · `Node.js` · `JWT` · `Socket.io`
 
 ---
 
@@ -160,22 +129,18 @@ A smart traffic analysis and navigation platform using interactive maps, routing
 ```yaml
 AI:
   - Retrieval-Augmented Generation
-  - Large Language Models
   - AI Agents
   - Computer Vision
-  - AI-powered applications
+  - Production-ready AI application design
 
 Full Stack:
-  - MERN Architecture
-  - REST APIs
-  - Authentication
-  - Scalable backend systems
-  - Modern React applications
+  - Scalable REST API design
+  - Authentication & authorization patterns
+  - System design fundamentals
 
-Currently:
-  - Building real-world projects
-  - Improving problem-solving skills
-  - Exploring AI + Web development
+Right now:
+  - Shipping real-world projects, not tutorials
+  - Sharpening problem-solving & DSA
 ```
 
 ---
@@ -226,26 +191,6 @@ Currently:
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-### 🚀 Building
-
-**AI-powered applications + modern full-stack products**
-
-### 🧠 Learning
-
-**RAG · LLMs · AI Integration · Scalable Web Architecture**
-
-### 📈 Improving
-
-**Problem Solving · System Design · Clean Code**
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -253,26 +198,19 @@ Currently:
 <a href="https://www.linkedin.com/in/driswin-kumar-k-13a829300">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:driswin77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/Driswin77">
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-### 💜 Build. Learn. Ship. Repeat.
+### 💜 Build. Learn. Ship.
 
 </div>
-
-<br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
-
 </div>
-```
