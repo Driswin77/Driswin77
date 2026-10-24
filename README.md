@@ -109,11 +109,11 @@ A fully local Retrieval-Augmented Generation system for question-answering over 
 `Python` · `RAG` · `LLMs` · `Vector Search`
 
 ---
+### 📝 [NoteForge](https://noteforge-pi-drab.vercel.app/) — AI-Powered Lecture Notes & Study Assistant
 
-### 🚦 [TraffIQ](https://github.com/Driswin77/TraffIQ) — Smart Traffic & Navigation
-An interactive traffic analysis and navigation platform combining real-time mapping, routing, and location-based intelligence.
+Transforms PDF and PPTX lecture slides into structured, topic-based notes using AI, with automatically generated glossaries, interactive quizzes, and PDF export to make studying more efficient.
 
-`React` · `JavaScript` · `Node.js` · `Leaflet` · `OpenStreetMap`
+`React` · `Node.js` · `Express` · `MongoDB` · `Python` · `Google Gemini` · `pdfplumber` · `python-pptx`
 
 ---
 
